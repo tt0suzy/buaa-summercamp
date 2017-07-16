@@ -1,0 +1,10 @@
+
+a = [11,22,33,44]
+
+b = [11,23]
+
+c = [i for i in a if i in b]
+
+print c
+
+
